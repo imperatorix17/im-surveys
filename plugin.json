@@ -1,0 +1,23 @@
+{
+    "name":"IM Surveys",
+    "id":"im-surveys",
+    "version":"1.0.0",
+    "startFile":"index.ts",
+
+    "enabled":true,
+    "priority":0,
+    "events":[],
+
+    "npmDependencies":[],
+    "requiredPlugins":[],
+    "incompatiblePlugins":[],
+
+    "details":{
+        "author":"imperatorix17",
+        "shortDescription":"A simple plugin to create surveys.",
+        "longDescription":"A simple plugin to create surveys.",
+        "imageUrl":"",
+        "projectUrl":"",
+        "tags":["surveys","command","custom","polls"]
+    }
+}
